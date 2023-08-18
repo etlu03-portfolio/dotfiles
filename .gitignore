@@ -1,0 +1,13 @@
+# macOS specific
+.DS_Store
+
+# npm
+node_modules/
+package-lock.json
+
+# environment
+env/
+
+# Python bytecode
+__pycache__/
+*.pyc
